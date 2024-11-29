@@ -1,11 +1,11 @@
     let score = "Rajat"
 
-    //console.log(typeof score);
-    //console.log(typeof (score));
+    console.log(typeof score);
+    console.log(typeof (score));
 
     let valueInNumber = Number(score)
-    //console.log(typeof valueInNumber);
-    //console.log( valueInNumber );
+    console.log(typeof valueInNumber);
+    console.log( valueInNumber );
 
 
 
@@ -16,7 +16,7 @@
     let isLoggedIn ="Rajat"
 
     let booleanIsLoggedIn = Boolean(isLoggedIn)
-    //console.log(booleanIsLoggedIn);
+    console.log(booleanIsLoggedIn);
 
     // 1 => true; 0 =>false
     // "" => false
@@ -26,5 +26,12 @@
     let stringNumber = String(someNumber)
     console.log(stringNumber);    
     console.log(typeof stringNumber);    
+
+
+    let VillageName = "Ankula"
+    let StateName = "Odisha"
+
+    console.log(StateName)    
+    
 
         
